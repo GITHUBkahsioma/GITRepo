@@ -1,0 +1,2 @@
+git config user.name "Jose Fernando Bosch Moreno"
+git config user.email "jose.bosch@epm.com.co"
