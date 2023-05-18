@@ -1,2 +1,11 @@
 git config user.name "Jose Fernando Bosch Moreno"
 git config user.email "jose.bosch@epm.com.co"
+Cuenta de GITHub
+e-mail: 	jose.bosch@epm.com.co
+password:	Gh4305jfbm*
+UserName:       GITHUBkahsioma
+
+Para conectar el repositorio:
+Se ubica en la carpeta que contiene el repositorio, llama la consola cmd y ejecuta el siguiente comando:
+	git remote add origin https://github.com/GITHUBkahsioma/GITRepo.git
+
