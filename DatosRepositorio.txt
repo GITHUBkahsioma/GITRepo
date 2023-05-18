@@ -9,5 +9,9 @@ Para conectar el repositorio:
 Se ubica en la carpeta que contiene el repositorio, llama la consola cmd y ejecuta el siguiente comando:
 	git remote add origin https://github.com/GITHUBkahsioma/GITRepo.git
 Para subir el repositorio de la carpeta hasta la nube en GitHUb:
-	git push --set upstream origin master
+	git push --set-upstream origin master
+
+Token: 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
+
+
 
