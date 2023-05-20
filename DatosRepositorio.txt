@@ -13,5 +13,8 @@ Para subir el repositorio de la carpeta hasta la nube en GitHUb:
 
 Token: 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
 
+Page Git Hub:
+	https://github.com/GITHUBkahsioma/test.github.io.git
+
 
 
